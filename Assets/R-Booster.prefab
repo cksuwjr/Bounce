@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8295472033739932560}
   - component: {fileID: 3349925475350300306}
   - component: {fileID: 1252551794}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: R-Booster
   m_TagString: R-B
   m_Icon: {fileID: 0}
