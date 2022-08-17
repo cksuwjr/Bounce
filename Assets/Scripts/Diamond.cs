@@ -19,7 +19,7 @@ public class Diamond : MonoBehaviour
     {
         if(collision.gameObject.tag == "Player")
         {
-            SceneManager.LoadScene("2Stage");
+            SceneManager.LoadScene((int.Parse(SceneManager.GetActiveScene().name[0].ToString()) + 1) + "Stage");
         }
     }
 }
