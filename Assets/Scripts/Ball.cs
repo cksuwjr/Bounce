@@ -34,6 +34,12 @@ public class Ball : MonoBehaviour
             rb.gravityScale = 3;
             rb.velocity = new Vector2(0, 0);
         }
+        else if(collision.gameObject.tag == "Niddle")
+        {
+            rb.gravityScale = 3;
+            Instantiate(gameObject, GameObject.FindGameObjectWithTag("Respawn").transform.position, Quaternion.identity);
+            Destroy(gameObject);
+        }    
     }
     void Move()
     {
