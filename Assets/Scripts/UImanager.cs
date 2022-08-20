@@ -17,7 +17,15 @@ public class UImanager : MonoBehaviour
     }
     public void BtnClick()
     {
+        SceneManager.LoadScene("UI2");
+    }
+    public void BtnClickFirstWorld()
+    {
         SceneManager.LoadScene("1Stage");
+    }
+    public void BtnClickSecondWorld()
+    {
+        SceneManager.LoadScene("6Stage");
     }
 }
 
