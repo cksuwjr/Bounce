@@ -5,18 +5,19 @@
 
 <h3>[조작 방법] </h3><br>
  키보드 방향키(← → ) : 이동 <br>
- <br>
- <br>
+ <br><br><br>
  아래 링크를 클릭하면 파일을 다운로드하여 직접 플레이 해볼 수 있습니다.<br>
 https://drive.google.com/drive/folders/1ftgxRBtKh9sjbADIY5UldZzQU3znQ0mX?usp=share_link
 <br><br><br>
  아래 링크을 클릭하면 유튜브 링크로 이동해 플레이 동영상을 시청할 수 있습니다. <br> 
 https://youtu.be/VxXjxBwI0Jo
+
 <br><br><br>
 
 <h3>[게임 소개] </h3><br>
 시작 UI 씬 <br>
-클릭하면 플레이 씬으로 바로 전환되는 버튼 UI로 구성했습니다.<br>
+클릭하면 플레이 씬으로 바로 전환되는 버튼 UI로 구성했습니다.
+
 ![image](https://user-images.githubusercontent.com/63836325/214475881-421d745a-d3ee-4559-992f-212ad73db0bc.png)
 <br><br><br>
 플레이 씬 <br>
